@@ -1,2 +1,0 @@
-# etheriumcash
-self made cryptocurrency
